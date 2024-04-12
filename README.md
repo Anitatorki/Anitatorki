@@ -29,3 +29,6 @@ Here are some key projects I've worked on:
 
 Thank you for visiting my profile! I'm open to collaboration and networking opportunities. Feel free to reach out if you have any questions or would like to discuss potential projects.
 
+## Visitor Count
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/your-username/your-repo-name.svg)
