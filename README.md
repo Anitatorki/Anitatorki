@@ -1,5 +1,5 @@
 # Hello, I'm Anita Torki 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 I'm a dedicated Data Scientist and Data Analyst based in Canada. I specialize in leveraging advanced analytical techniques and data visualization tools to extract actionable insights and drive strategic decision-making. My technical proficiency and collaborative mindset enable me to contribute effectively to dynamic team environments.
 
 - 📧 Email: [anita.trkh@gmail.com](mailto:anita.trkh@gmail.com)
