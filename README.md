@@ -8,17 +8,17 @@ I'm a dedicated Data Scientist and Data Analyst based in Canada. I specialize in
 
 ## 💻 Skills and Technologies
 
-- **Data Analysis & Visualization**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white), Tableau
-- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white), Oracle, MongoDB
-- **Programming**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white), C, C#, C++
-- **Machine Learning**: Linear Regression, Data Cleaning, Statistical Analysis
+- **Data Analysis & Visualization**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white),![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
-## 🚀 Projects
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white), ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+,![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white),
 
-Here are some key projects I've worked on:
-
-- **[Supermarket Sales Analysis](https://github.com/Anitatorki/Supermarket-Sales-Analysis)**: Conducted a comprehensive analysis of supermarket sales data using Python, providing valuable insights into sales trends.
-- **[Encoding Categorical Data](https://github.com/Anitatorki/Encoding-Categorical-Data)**: Explored effective techniques for encoding categorical data in Python for machine learning applications.
+- **Programming**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white),
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white),
+- **Machine Learning**:
+  - ![Linear Regression](https://img.shields.io/badge/-Linear_Regression-007ACC?style=flat)
+- ![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-009DFF?style=flat)
+- ![Statistical Analysis](https://img.shields.io/badge/-Statistical_Analysis-8E44AD?style=flat)
 
 ## 📊 GitHub Stats
 
