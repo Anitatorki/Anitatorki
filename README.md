@@ -1,6 +1,6 @@
 # Hello, I'm Anita Torki 👋
 
-I'm a dedicated Data Scientist and Data Analyst based in Montreal, Canada. I specialize in leveraging advanced analytical techniques and data visualization tools to extract actionable insights and drive strategic decision-making. My technical proficiency and collaborative mindset enable me to contribute effectively to dynamic team environments.
+I'm a dedicated Data Scientist and Data Analyst based in Canada. I specialize in leveraging advanced analytical techniques and data visualization tools to extract actionable insights and drive strategic decision-making. My technical proficiency and collaborative mindset enable me to contribute effectively to dynamic team environments.
 
 - 📧 Email: [anita.trkh@gmail.com](mailto:anita.trkh@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/anita-torki/)
