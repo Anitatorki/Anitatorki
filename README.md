@@ -31,4 +31,4 @@ Thank you for visiting my profile! I'm open to collaboration and networking oppo
 
 ## Visitor Count
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/your-username/your-repo-name.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo-name&count_bg=%23C81F00&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
