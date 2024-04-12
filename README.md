@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=312EAB&random=false&width=435&lines=Hello%2C+I'm+Anita+Torki)](https://git.io/typing-svg)
 
-I'm a dedicated Data Scientist and Data Analyst based in Canada. I specialize in leveraging advanced analytical techniques and data visualization tools to extract actionable insights and drive strategic decision-making. My technical proficiency and collaborative mindset enable me to contribute effectively to dynamic team environments.
-
 - 📧 [anita.trkh@gmail.com](mailto:anita.trkh@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/anita-torki/)
 - 💻 [GitHub Profile](https://github.com/Anitatorki)
