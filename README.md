@@ -26,5 +26,10 @@ Here are some key projects I've worked on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitatorki&layout=compact&theme=default)
 
+## 💻 GitHub Activity
+
+![Anita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anitatorki&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitatorki&layout=compact&theme=default)
+
 Thank you for visiting my profile! I'm open to collaboration and networking opportunities. Feel free to reach out if you have any questions or would like to discuss potential projects.
 
