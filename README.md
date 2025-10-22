@@ -20,6 +20,3 @@
 
 Thank you for visiting my profile! I'm open to collaboration and networking opportunities. Feel free to reach out if you have any questions or would like to discuss potential projects.
 
-## Visitor Count
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnitatorki&count_bg=%23070166&title_bg=%23ABADB6&icon=github.svg&icon_color=%23001372&title=Visitor+count&edge_flat=false)](https://hits.seeyoufarm.com)
