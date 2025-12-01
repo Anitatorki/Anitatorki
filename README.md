@@ -13,9 +13,6 @@
 - **Machine Learning**:  ![Linear Regression](https://img.shields.io/badge/-Linear_Regression-007ACC?style=flat) ![Data Cleaning](https://img.shields.io/badge/-Data_Cleaning-009DFF?style=flat) ![Statistical Analysis](https://img.shields.io/badge/-Statistical_Analysis-8E44AD?style=flat)
 - **Web Technologies** [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)](https://jquery.com/) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-## 📊 GitHub Stats
-
-![Anitatorki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anitatorki&show_icons=true&theme=default), ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitatorki&layout=compact&theme=default)
 
 
 Thank you for visiting my profile! I'm open to collaboration and networking opportunities. Feel free to reach out if you have any questions or would like to discuss potential projects.
